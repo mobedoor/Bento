@@ -53,9 +53,9 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'UWorld',
+			icon: 'uworld',
+			link: 'https://www.uworld.com/app/index.html#/login/',
 		},
 		{
 			id: '2',
@@ -65,9 +65,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'UpToDate',
+			icon: 'uptodate',
+			link: 'https://www.wolterskluwer.com/en/solutions/uptodate',
 		},
 		{
 			id: '4',
